@@ -1,0 +1,11 @@
+_pycache_
+.replit
+example.draw
+bday.txt
+keep_alive.py
+log.txt
+plog.txt
+storage/
+logging/
+cogs/__pycache__
+cogs/cog_twilio
